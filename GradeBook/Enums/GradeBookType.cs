@@ -1,6 +1,6 @@
 ﻿namespace GradeBook.Enums
 {
-    public enum GradBookType
+    public enum GradeBookType
     {
         Standard,
         Ranked,
